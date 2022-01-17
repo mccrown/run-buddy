@@ -78,7 +78,6 @@ section {
 /*Hero Style End*/
 
 .hero-form {
-    ...
     color: #024e76;
     background-color: #fce138;
     padding: 20px;
@@ -86,7 +85,6 @@ section {
     border-width: 3px;
     border-style: solid;
     border-color: #024e76;
-    font-weight: bold;
     position: absolute;
     bottom: 120px;
     right: 140px;
